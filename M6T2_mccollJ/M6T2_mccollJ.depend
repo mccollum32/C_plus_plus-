@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714976051 source:g:\programming\c_plus_plus\m6t2_mccollj\main.cpp
+	<iostream>
+	"Box.h"
+
+1714978445 source:g:\programming\c_plus_plus\m6t2_mccollj\box.cpp
+	<iostream>
+
+1714972663 g:\programming\c_plus_plus\m6t2_mccollj\box.h
+	<iostream>
+

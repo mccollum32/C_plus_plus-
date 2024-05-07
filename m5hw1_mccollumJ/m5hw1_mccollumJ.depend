@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712999753 source:g:\programming\c_plus_plus\m5hw1_mccollumj\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
